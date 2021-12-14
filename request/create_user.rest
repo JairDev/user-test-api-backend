@@ -1,0 +1,18 @@
+POST http://localhost:3001/users
+content-type: application/json
+
+{
+  "name": "Nancy",
+  "age": "71"
+}
+
+###
+
+POST http://localhost:3001/users
+content-type: application/json
+
+{
+  "age": "71"
+}
+
+
