@@ -31,6 +31,12 @@ let data = [
     age: "39",
     bitcoiner: false
   },
+  {
+    id: 1,
+    name: "Made",
+    age: "50",
+    bitcoiner: false
+  },
 ];
 
 // const app  = http.createServer((req, res) => {
